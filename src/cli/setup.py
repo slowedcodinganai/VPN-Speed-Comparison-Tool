@@ -98,7 +98,7 @@ setup(
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
         "yarl==1.4.2",
-        "pillow==10.2.0",
+        "pillow==10.3.0",
         "asyncio",
         "aiohttp",
         "aiofiles",
